@@ -30,11 +30,19 @@ should i do the db init file for creating tables
 seperate author table ?
 clean 
 web ui 
-db output sanitize 
-seperate server n routes js 
+db output sanitize and give api output 
+seperate server n routes js , main/index/app js 
 new db 
 push to repo 
 nodemon 
 seperate db apis and db init - connection n stuff 
 package.json
 postman collection 
+node version, db version, 
+move keys,pwds to env 
+censor key n pwds 
+seperate file for creds 
+vscode debug 
+
+
+
