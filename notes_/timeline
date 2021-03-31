@@ -1,0 +1,40 @@
+started at 3:30
+
+reset aws account and veiy the billin n payment info 
+created aws rds mysql 
+
+found mysql client for node 
+
+4:20 - installed mysql client, connecting to remote server 
+
+downloading workbench for mysql - 
+
+saw logs - no clue 
+
+may be ssl, firewall?
+
+changed security inb.outb rule source/dest ip to anywhere 
+changed accecibility to public 
+
+able to connect fro mworkbench and almost from cli 
+
+------------------------------------
+
+Mar 30:
+
+just use async await instead of promise 
+
+31 :
+
+should i do the db init file for creating tables 
+seperate author table ?
+clean 
+web ui 
+db output sanitize 
+seperate server n routes js 
+new db 
+push to repo 
+nodemon 
+seperate db apis and db init - connection n stuff 
+package.json
+postman collection 
